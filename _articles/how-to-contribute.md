@@ -26,11 +26,11 @@ Why do people contribute to open source? Plenty of reasons!
 
 ### Improve software you rely on
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it. Also if you cannot patch the error yourself, then noting what caused the issue and the issue itself in a well documented format which can be given to programmers to make the correction.
 
 ### Improve existing skills
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project. Open source project welcomes everyone, users can notice errors and share, programmers can patch these issues etc.
 
 ### Meet people who are interested in similar things
 
